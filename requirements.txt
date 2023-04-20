@@ -5,7 +5,6 @@ python-multipart
 keras
 tensorflow==2.10.0
 numpy
-pickle
 scikit-learn
 streamlit
 protobuf==4.22.1
