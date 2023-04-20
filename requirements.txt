@@ -3,7 +3,7 @@ uvicorn
 pydantic
 python-multipart
 keras
-tensorflow==2.10.0 --no-deps
+tensorflow==2.10.0 
 numpy
 scikit-learn
 streamlit
