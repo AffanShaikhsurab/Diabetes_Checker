@@ -3,7 +3,7 @@ uvicorn
 pydantic
 python-multipart
 keras
-tensorflow
+tensorflow --no-deps
 numpy
 pickle
 scikit-learn
