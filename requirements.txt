@@ -9,4 +9,4 @@ pickle
 scikit-learn
 streamlit
 protobuf==4.22.1
---upgrade pip
+
