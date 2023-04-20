@@ -7,7 +7,7 @@ tensorflow==2.9.10
 numpy
 scikit-learn
 streamlit ==1.18.0
-pip install protobuf<3.20
+pip install protobuf==3.16.0
 
 tensorflow tensorboard
 
