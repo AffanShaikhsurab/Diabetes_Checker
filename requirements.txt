@@ -6,7 +6,7 @@ keras
 tensorflow==2.10.0 
 numpy
 scikit-learn
-streamlit
+streamlit ==1.18.0
 uninstall protobuf
 pip install protobuf<3.20
 
