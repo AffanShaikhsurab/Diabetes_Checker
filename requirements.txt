@@ -7,6 +7,8 @@ tensorflow==2.10.0
 numpy
 scikit-learn
 streamlit
+uninstall protobuf
 pip install protobuf<3.20
+
 tensorflow tensorboard
 
