@@ -5,3 +5,6 @@ python-multipart
 keras
 tensorflow
 numpy
+pickle
+scikit-learn
+streamlit
