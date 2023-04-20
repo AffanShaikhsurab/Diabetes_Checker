@@ -3,7 +3,7 @@ uvicorn
 pydantic
 python-multipart
 keras
-tensorflow==2.10.0 
+tensorflow==2.9.10
 numpy
 scikit-learn
 streamlit ==1.18.0
