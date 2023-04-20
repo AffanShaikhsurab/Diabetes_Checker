@@ -3,7 +3,7 @@ uvicorn
 pydantic
 python-multipart
 keras
-tensorflow==2.1.0 --no-deps
+tensorflow==2.1.0
 numpy
 pickle
 scikit-learn
