@@ -7,5 +7,5 @@ tensorflow==2.10.0
 numpy
 scikit-learn
 streamlit
-protobuf==3.9.10
+protobuf==3.16.0
 
